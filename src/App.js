@@ -7,7 +7,6 @@ import SearchPage from './Searchpage'
 
 function App() {
   return (
-     // BEM
      <div className="App">
       <Router>
         <Header />
